@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanmustiolacas&show_icons=true&locale=en&layout=compact" alt="jhonatanmustiola" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatanmustiolacas&show_icons=true&locale=en" alt="jhonatanmustiola" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatanmustiolacas&show_icons=true&theme=chartreuse-dark&locale=en" alt="jhonatanmustiola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanmustiolacas&theme=chartreuse-dark" alt="jhonatanmustiola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanmustiolacas&" alt="jhonatanmustiola" /></p>
 
