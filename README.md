@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatanmustiolacas&show_icons=true&locale=en" alt="jhonatanmustiola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanmustiolacas&" alt="jhonatanmustiola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanmustiolacas&theme=chartreuse-dark" alt="jhonatanmustiola" /></p>
 
