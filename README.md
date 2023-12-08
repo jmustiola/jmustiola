@@ -11,7 +11,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<https://linkedin.com/in/Jhonatan> Mustiola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<https://linkedin.com/in/Jhonatan-m-025812214>)
 
 # 💻 Tech Stack
 
