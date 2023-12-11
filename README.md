@@ -2,7 +2,7 @@
 <!-- * 📄 Know about my experiences [""]("") -->
 <!-- * ⚡ Fun fact **""** -->
 
-![Cover](https://www.canva.com/design/DAF1IhfRJGA/L0wO2cPScoZ0a7BpuLe_CQ/view?utm_content=DAF1IhfRJGA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Cover](https://www.canva.com/design/DAF1IhfRJGA/view)
 
 <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
 <h3 align="center">A Full Stack Developer from Venezuela</h3>
