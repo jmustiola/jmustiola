@@ -47,7 +47,4 @@ I'm also like numbers, patterns and math, so I decided to study for a bachelor's
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=JhonatanMustiolaCas&icon=9&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
