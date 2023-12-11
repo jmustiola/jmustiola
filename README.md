@@ -28,6 +28,7 @@ I'm also like numbers, patterns and math, so I decided to study for a bachelor's
 ## Progress at roadmap.sh
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=javascript%2Ccomputer-science%2Cgolang%2Csql)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=aspnet-core%2Ccpp%2Cbackend%2Crust)](https://roadmap.sh)
 
 # 📊 GitHub Stats
 
