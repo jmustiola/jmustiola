@@ -2,7 +2,7 @@
 <!-- * 📄 Know about my experiences [""]("") -->
 <!-- * ⚡ Fun fact **""** -->
 
-![Cover](https://drive.google.com/file/d/1xxz0_CPD36-qZC3M4c_QE8sSAq_vACHh/view?usp=drive_link)
+![Cover](https://media.licdn.com/dms/image/D4E16AQE1MtqAD_Hj5Q/profile-displaybackgroundimage-shrink_350_1400/0/1700880132291?e=1707955200&v=beta&t=0QJO6hBTW0jJcrgLY6HonTMtNmZTp0n_C54NDT_lVuQ)
 
 <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
 <h3 align="center">A Full Stack Developer from Venezuela</h3>
