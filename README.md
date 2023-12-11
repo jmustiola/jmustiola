@@ -5,11 +5,17 @@
 ![Cover](https://media.licdn.com/dms/image/D4E16AQE1MtqAD_Hj5Q/profile-displaybackgroundimage-shrink_350_1400/0/1700880132291?e=1707955200&v=beta&t=0QJO6hBTW0jJcrgLY6HonTMtNmZTp0n_C54NDT_lVuQ)
 
 <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
-<h3 align="center">A Full Stack Developer from Venezuela</h3>
+<h3 align="center">A Full Stack Software Developer from Venezuela</h3>
 
 # 💫 About Me
 
-🌱 I’m currently learning React, Redux, Astro, Rust<br>💬 Ask me about Back-End & Computer Science<br>📫How to reach me **<jhonmustiomaths@protonmail.com>**<br>👨‍💻 All of my projects are available at [https://github.com/JhonatanMustiolaCas](https://github.com/JhonatanMustiolaCas)
+As a child, I remember enjoying every moment just in front the PC that my father bought that once. It was like magic through my eyes. Since that early experiences, I've taken every chance I have for understanding the concepts behind PCs and software and, of course, keeping learning, that's the way that matches with me. One of my biggest motivations is learn. That's why I started to self-taught, reading books and seeking tutorials about computer science.
+
+I like assist to developer meetings, conferences and share knowledge. The best place to work is where I can improve constantly.
+
+I'm also like numbers, patterns and math, so I decided to study for a bachelor's degree in Mathematics. I like how math complements and supports computer science concepts and theories. This way I enjoy how I can be a better programmer as a mathematician and viceversa.
+
+🌱 I’m currently learning React, Redux, Astro, Rust<br>💬 Ask me about Back-End & Computer Science<br>📫How to reach me **<jhonmustiomaths@protonmail.com>**<br>👨‍💻 All of my projects are available at [https://github.com/JhonatanMustiolaCas](https://github.com/JhonatanMustiolaCas)<br>👨🏾‍💻 Serch for me on LinkedIn [Jhonatan Mustiola](https://www.linkedin.com/in/jhonatan-m-025812214)
 
 ## 🌐 Socials
 
