@@ -15,7 +15,7 @@ I like assist to developer meetings, conferences and share knowledge. The best p
 
 I'm also like numbers, patterns and math, so I decided to study for a bachelor's degree in Mathematics. I like how math complements and supports computer science concepts and theories. This way I enjoy how I can be a better programmer as a mathematician and viceversa.
 
-🌱 I’m currently learning React, Redux, Astro, Rust<br>💬 Ask me about Back-End & Computer Science<br>📫How to reach me **<jhonmustiomaths@protonmail.com>**<br>👨‍💻 All of my projects are available at [https://github.com/JhonatanMustiolaCas](https://github.com/JhonatanMustiolaCas)<br>👨🏾‍💻 Serch for me on LinkedIn [Jhonatan Mustiola](https://www.linkedin.com/in/jhonatan-m-025812214)
+🌱 I’m currently learning React, Redux, Astro, Rust<br>💬 Ask me about Back-End & Computer Science<br>📫How to reach me **<jhonmustiomaths@protonmail.com>**<br>👨‍💻 All of my projects are available at [https://github.com/JhonatanMustiolaCas](https://github.com/JhonatanMustiolaCas)<br>👨🏾‍💻 Search for me on LinkedIn [Jhonatan Mustiola](https://www.linkedin.com/in/jhonatan-m-025812214)
 
 ## 🌐 Socials
 
