@@ -2,6 +2,8 @@
 <!-- * 📄 Know about my experiences [""]("") -->
 <!-- * ⚡ Fun fact **""** -->
 
+![Cover](https://i.pinimg.com/564x/35/88/5f/35885f490e813d8b062966793aac3b99.jpg)
+
 <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
 <h3 align="center">A Full Stack Developer from Venezuela</h3>
 
