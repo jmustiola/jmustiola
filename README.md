@@ -26,11 +26,12 @@ As a child, I remember enjoying every moment just in front of the PC that my fat
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=javascript%2Ccomputer-science%2Cgolang%2Csql)](https://roadmap.sh)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=aspnet-core%2Ccpp%2Cbackend%2Crust)](https://roadmap.sh)
 
-# 📊 GitHub Stats
+# 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=JhonatanMustiolaCas&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanMustiolaCas&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMustiolaCas&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMustiolaCas&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://leetcard.jacoblin.cool/JhonatanMustiola?ext=activity)
 
 ### ✍️ Random Dev Quote
 
