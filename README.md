@@ -17,7 +17,7 @@ I've been taken every chance I have for understanding the concepts behind PCs an
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<https://linkedin.com/in/Jhonatan-m-025812214>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<https://linkedin.com/in/jhonatan-mustiola>)
 
 # 💻 Tech Stack
 
