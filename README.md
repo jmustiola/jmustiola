@@ -5,11 +5,18 @@
 ![Cover](https://media.licdn.com/dms/image/D4E16AQE1MtqAD_Hj5Q/profile-displaybackgroundimage-shrink_350_1400/0/1700880132291?e=1707955200&v=beta&t=0QJO6hBTW0jJcrgLY6HonTMtNmZTp0n_C54NDT_lVuQ)
 
 <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
-<h3 align="center">A Full Stack Software Developer from Venezuela</h3>
+<h3 align="center">A Full Stack Software Developer from 
+<span style="color: yellow;" >Ven</span><span style="color: blue; text-decoration-line: line-through; text-decoration-color: white">ezu</span><span style="color:red;">ela</span>
+</h3>
 
 # 💫 About Me
 
-I'm actually coursing 2nd semester of Mathematics at Universidad Nacional Abierta (UNA), leading my studies via on-line so I could work in the meantime.
+I'm foucsed on **Backend Development**, currently using tecnologies such as **.NET**, **Python** and **Go**.
+
+
+
+
+
 
 I've been taken every chance I have for understanding the concepts behind PCs and software and, of course, keeping learning. Learning keeps me motivated. That's why I decided to become a self-taught programmer and learn about computer science either by my own or through educational platforms like Udemy, freeCodeCamp and so.
 
@@ -30,18 +37,19 @@ I've been taken every chance I have for understanding the concepts behind PCs an
 
 # 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=JhonatanMustiolaCas&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanMustiolaCas&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMustiolaCas&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=JhonatanMustiolaCas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanMustiolaCas&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMustiolaCas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <!-- ![](https://leetcard.jacoblin.cool/JhonatanMustiola?ext=activity) -->
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=JhonatanMustiolaCas&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=JhonatanMustiolaCas&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 ### 😂 Random Dev Meme
 
