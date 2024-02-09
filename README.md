@@ -13,7 +13,7 @@
 
 
 
-I'm foucsed on **Backend Development** and fascinated about low-level programming and systems. Actually, I like all sort of technology or, better said, the technology itself.
+I'm focused on **Backend Development** and fascinated about low-level programming and systems. Actually, I like all sort of technology or, better said, the technology itself.
 
 That's why I decided to become a **self-taught** programmer and learn about computer science either by my own or through educational platforms like Udemy, freeCodeCamp and so.
 
