@@ -15,11 +15,13 @@
 
 I'm foucsed on **Backend Development** and fascinated about low-level programming and systems. Actually, I like all sort of technology or, better said, the technology itself.
 
-That's why I decided to become a self-taught programmer and learn about computer science either by my own or through educational platforms like Udemy, freeCodeCamp and so.
+That's why I decided to become a **self-taught** programmer and learn about computer science either by my own or through educational platforms like Udemy, freeCodeCamp and so.
 
-In my journey as a developer, I've learnt and developed some skills that let me work in different areas and workspaces, weather collaborativelly or individually.
+My principal approach to coding is by focusing in small solutions **one by one** and **step-by-step** until joining the ones to perform a big action.
 
-I'm always searching for something new to be learnt and applied, but also invest much time on growing my base stack for maintaining myself stabled and offer robust solid services.
+In my journey as a developer, I've been learntig and developed some skills that let me work in different areas and workspaces, weather **collaborativelly** or individually.
+
+I'm always **searching for something new** to be learnt and applied, but also **invest much time on growing my base stack** for maintaining myself stabled and offer robust solid services.
 
 <div align="right">
 <img width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1OTNuN2R1ZTlma2Ywd29sc2FheG0wdzRmcnpzdTh2OHZ3NWUxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif">
@@ -44,9 +46,11 @@ I'm always searching for something new to be learnt and applied, but also invest
 - Excel reports generation
 - LINQ
 
-<div align="left">
-<img width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0NnRjcmdoNjIzNjZydXo2MHVmMTlmaXJ3NXlhYXpxMDh0bnZ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" />
+<div align="right">
+<img width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4bXlnM3J2YTlscmNzZ3pqcWNvNmJzd2ZpeW15aHd5NXY2aWp6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" />
 </div>
+
+
 
 ### Python related skills
 
@@ -68,9 +72,14 @@ I'm always searching for something new to be learnt and applied, but also invest
 
 - Strapi
 
+<div align="right">
+<img width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0NnRjcmdoNjIzNjZydXo2MHVmMTlmaXJ3NXlhYXpxMDh0bnZ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" />
+</div>
+
 ### Front-end related skills
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Astro](https://img.shields.io/badge/astro-000000.svg?style=for-the-badge&logo=astro&logoColor=orange)
+
 
 - API consumption
 - Form validations
@@ -92,6 +101,10 @@ I'm always searching for something new to be learnt and applied, but also invest
 
 ---
 
+<div align="right">
+<img width="180px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ1MW41Y3VhbDE2ZThjcjF6ZG90M2tyeWc5OHJ5c2N4ejdkcjd0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif" />
+</div>
+
 <div>
 🌱 I’m currently learning <b>Astro</b>, <b>Rust</b>
 <br>
@@ -108,19 +121,21 @@ I'm always searching for something new to be learnt and applied, but also invest
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<https://linkedin.com/in/jhonatan-mustiola>)
 
-## Progress at roadmap.sh
+## 📊 Stats
+
+### Progress at roadmap.sh
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=javascript%2Ccomputer-science%2Cgolang%2Csql)](https://roadmap.sh)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=aspnet-core%2Ccpp%2Cbackend%2Crust)](https://roadmap.sh)
 
-# 📊 Stats
+### GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=JhonatanMustiolaCas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanMustiolaCas&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMustiolaCas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <!-- ![](https://leetcard.jacoblin.cool/JhonatanMustiola?ext=activity) -->
 
-### 🔝 Top Contributed Repo
+#### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=JhonatanMustiolaCas&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
@@ -129,9 +144,9 @@ I'm always searching for something new to be learnt and applied, but also invest
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -139,6 +154,5 @@ I'm always searching for something new to be learnt and applied, but also invest
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
