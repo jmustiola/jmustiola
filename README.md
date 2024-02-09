@@ -19,7 +19,7 @@ That's why I decided to become a **self-taught** programmer and learn about comp
 
 My principal approach to coding is by focusing in small solutions **one by one** and **step-by-step** until joining the ones to perform a big action.
 
-In my journey as a developer, I've been learning and developed some skills that let me work in different areas and workspaces, weather **collaborativelly** or individually.
+In my journey as a developer, I've been learning and developing some skills that let me work in different areas and workspaces, weather **collaborativelly** or individually.
 
 I'm always **searching for something new** to be learnt and applied, but also **invest much time on growing my base stack** for maintaining myself stabled and offer robust services.
 
