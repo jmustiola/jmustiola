@@ -21,7 +21,7 @@ My principal approach to coding is by focusing in small solutions **one by one**
 
 In my journey as a developer, I've been learntig and developed some skills that let me work in different areas and workspaces, weather **collaborativelly** or individually.
 
-I'm always **searching for something new** to be learnt and applied, but also **invest much time on growing my base stack** for maintaining myself stabled and offer robust solid services.
+I'm always **searching for something new** to be learnt and applied, but also **invest much time on growing my base stack** for maintaining myself stabled and offer robust services.
 
 <div align="right">
 <img width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1OTNuN2R1ZTlma2Ywd29sc2FheG0wdzRmcnpzdTh2OHZ3NWUxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif">
