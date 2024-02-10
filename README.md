@@ -2,16 +2,17 @@
 <!-- * 📄 Know about my experiences [""]("") -->
 <!-- * ⚡ Fun fact **""** -->
 
-#
+# Contact me
 
-![Cover](https://media.licdn.com/dms/image/D4E16AQE1MtqAD_Hj5Q/profile-displaybackgroundimage-shrink_350_1400/0/1700880132291?e=1707955200&v=beta&t=0QJO6hBTW0jJcrgLY6HonTMtNmZTp0n_C54NDT_lVuQ)
++ on [LinkedIn](https://likendin.com/jhonatan-mustiola)
++ through [Email](mailto:jhonmustiomaths@protonmail.com)
+
+<!-- ![Cover](https://media.licdn.com/dms/image/D4E16AQE1MtqAD_Hj5Q/profile-displaybackgroundimage-shrink_350_1400/0/1700880132291?e=1707955200&v=beta&t=0QJO6hBTW0jJcrgLY6HonTMtNmZTp0n_C54NDT_lVuQ)
 
 <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
 <h3 align="center">Junior Full Stack Software Developer</h3>
 
 ## 💫 About Me
-
-
 
 I'm focused on **Backend Development** and fascinated about low-level programming and systems. Actually, I like all sort of technology or, better said, the technology itself.
 
@@ -50,8 +51,6 @@ I'm always **searching for something new** to be learnt and applied, but also **
 <img width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4bXlnM3J2YTlscmNzZ3pqcWNvNmJzd2ZpeW15aHd5NXY2aWp6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" />
 </div>
 
-
-
 ### Python related skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -73,7 +72,6 @@ I'm always **searching for something new** to be learnt and applied, but also **
 ### Front-end related skills
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Astro](https://img.shields.io/badge/astro-000000.svg?style=for-the-badge&logo=astro&logoColor=orange)
-
 
 - API consumption
 - Form validations
@@ -127,7 +125,7 @@ I'm always **searching for something new** to be learnt and applied, but also **
 ![](https://github-readme-stats.vercel.app/api?username=JhonatanMustiolaCas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanMustiolaCas&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMustiolaCas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-<!-- ![](https://leetcard.jacoblin.cool/JhonatanMustiola?ext=activity) -->
+![](https://leetcard.jacoblin.cool/JhonatanMustiola?ext=activity)
 
 #### 🔝 Top Contributed Repo
 
@@ -137,13 +135,13 @@ I'm always **searching for something new** to be learnt and applied, but also **
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+### 😂 Random Dev Meme
 
-<!-- ### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+Proudly created with GPRM ( https://gprm.itsvg.in )
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
