@@ -4,9 +4,10 @@
 
 # Contact me
 
-+ on [LinkedIn](https://likendin.com/jhonatan-mustiola)
-+ my [Portfolio](https://jhonatan-mustiola.netlify.app)
-+ through [Email](mailto:mustiolajhonatan@gmail.com)
++ Do you want to know about me? Visit my [LinkedIn](https://likendin.com/jhonatan-mustiola) profile
++ Do you want to see what I've been doing? Visit my [Portfolio](https://jhonatan-mustiola.netlify.app) website
++ Do you want to send me a message? just write one to my [Email](mailto:mustiolajhonatan@gmail.com)
++ Do you want to see how I code?... then you're in the place
 
 <!-- ![Cover](https://media.licdn.com/dms/image/D4E16AQE1MtqAD_Hj5Q/profile-displaybackgroundimage-shrink_350_1400/0/1700880132291?e=1707955200&v=beta&t=0QJO6hBTW0jJcrgLY6HonTMtNmZTp0n_C54NDT_lVuQ)
 
