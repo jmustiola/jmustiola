@@ -6,7 +6,7 @@
 
 + on [LinkedIn](https://likendin.com/jhonatan-mustiola)
 + my [Portfolio](https://jhonatan-mustiola.netlify.app)
-+ through [Email](mailto:jhonmustiomaths@protonmail.com)
++ through [Email](mailto:mustiolajhonatan@gmail.com)
 
 <!-- ![Cover](https://media.licdn.com/dms/image/D4E16AQE1MtqAD_Hj5Q/profile-displaybackgroundimage-shrink_350_1400/0/1700880132291?e=1707955200&v=beta&t=0QJO6hBTW0jJcrgLY6HonTMtNmZTp0n_C54NDT_lVuQ)
 
