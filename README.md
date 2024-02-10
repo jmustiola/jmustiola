@@ -2,7 +2,7 @@
 <!-- * 📄 Know about my experiences [""]("") -->
 <!-- * ⚡ Fun fact **""** -->
 
-# Contact me
+# Me
 
 + Do you want to know about me? Visit my [LinkedIn](https://likendin.com/jhonatan-mustiola) profile
 + Do you want to see what I've been doing? Visit my [Portfolio](https://jhonatan-mustiola.netlify.app) website
