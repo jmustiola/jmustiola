@@ -2,14 +2,12 @@
 <!-- * 📄 Know about my experiences [""]("") -->
 <!-- * ⚡ Fun fact **""** -->
 
-# Me
+<!-- # Me
 
 + Do you want to know about me? Visit my [LinkedIn](https://likendin.com/jhonatan-mustiola) profile
 + Do you want to see what I've been doing? Visit my [Portfolio](https://jhonatan-mustiola.netlify.app) website
 + Do you want to send me a message? just write one to my [Email](mailto:mustiolajhonatan@gmail.com)
-+ Do you want to see how I code?... then you're in the place
-
-<!-- ![Cover](https://media.licdn.com/dms/image/D4E16AQE1MtqAD_Hj5Q/profile-displaybackgroundimage-shrink_350_1400/0/1700880132291?e=1707955200&v=beta&t=0QJO6hBTW0jJcrgLY6HonTMtNmZTp0n_C54NDT_lVuQ)
++ Do you want to see how I code?... then you're in the place -->
 
 <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
 <h3 align="center">Junior Full Stack Software Developer</h3>
@@ -39,7 +37,6 @@ I'm always **searching for something new** to be learnt and applied, but also **
 - Dependency Injection
 - HTTP Protocol
 - Authentication, Authorization, Identity, JWT Bearer
-- Creation of Gateways and Load Balancers
 - Entity Framework Core and Dapper
 - AutoMapper
 - MVC pattern
@@ -68,7 +65,7 @@ I'm always **searching for something new** to be learnt and applied, but also **
 - Data analysis and Visualization
 
 <div align="right">
-<img width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0NnRjcmdoNjIzNjZydXo2MHVmMTlmaXJ3NXlhYXpxMDh0bnZ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" />
+<img width="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR4NmJ1YXpvbTRoaGF1OXkyNGUwcXk0NDNjYmI3NmY4NmoycnV0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 ### Front-end related skills
@@ -141,7 +138,7 @@ I'm always **searching for something new** to be learnt and applied, but also **
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-Proudly created with GPRM ( https://gprm.itsvg.in )
+Proudly created with GPRM ( <https://gprm.itsvg.in> )
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -149,4 +146,4 @@ Proudly created with GPRM ( https://gprm.itsvg.in )
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
+![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
