@@ -134,9 +134,9 @@ I'm always **searching for something new** to be learnt and applied, but also **
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 <!-- Proudly created with GPRM ( <https://gprm.itsvg.in> )
 
