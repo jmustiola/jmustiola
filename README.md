@@ -124,7 +124,7 @@ I'm always **searching for something new** to be learnt and applied, but also **
 ![](https://github-readme-stats.vercel.app/api?username=JhonatanMustiolaCas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanMustiolaCas&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMustiolaCas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://leetcard.jacoblin.cool/JhonatanMustiola?ext=activity)
+<!-- ![](https://leetcard.jacoblin.cool/JhonatanMustiola?ext=activity) -->
 
 #### 🔝 Top Contributed Repo
 
@@ -138,7 +138,7 @@ I'm always **searching for something new** to be learnt and applied, but also **
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-Proudly created with GPRM ( <https://gprm.itsvg.in> )
+<!-- Proudly created with GPRM ( <https://gprm.itsvg.in> )
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -146,4 +146,4 @@ Proudly created with GPRM ( <https://gprm.itsvg.in> )
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
