@@ -5,8 +5,8 @@
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/jhonatan-mustiola)
-- [mustiolajhonatan@gmail.com](mailto:mustiolajhonatan@gmail.com)
-<!-- - [Portfolio](https://jhonatan-mustiola.netlify.app) -->
+- [jhonmustiomaths@protonmail.com](mailto:jhonmustiomaths@protonmail.com)
+- [Portfolio](https://jhonatan-mustiola-portfolio.netlify.app)
 
 ## Technologies
 
