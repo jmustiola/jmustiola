@@ -6,7 +6,7 @@
 
 - [LinkedIn](https://www.linkedin.com/jhonatan-mustiola)
 - [jhonmustiomaths@protonmail.com](mailto:jhonmustiomaths@protonmail.com)
-- [Portfolio](https://jhonatan-mustiola-portfolio.netlify.app)
+- [Personal Website](https://jhonatan-mustiola.netlify.app)
 
 ## Technologies
 
