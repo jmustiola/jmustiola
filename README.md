@@ -1,12 +1,19 @@
-
 <h1 align="center">Jhonatan Mustiola</h1>
-<h3 align="center">Software Developer</h3>
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=CACACA&background=2A2A2A&center=true&vCenter=true&multiline=true&random=false&width=512&height=79&lines=Software+Developer+;backend+and+low-level+programming" alt="Typing SVG" /></a>
+</h2>
 
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/jhonatan-mustiola)
-- [jhonmustiomaths@protonmail.com](mailto:jhonmustiomaths@protonmail.com)
-- [Personal Website](https://jhonatan-mustiola.netlify.app)
+<h2 align="center">
+  <a href="https://www.linkedin.com/in/jhonatan-mustiola">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+</a>
+<a href="mailto:jhonmustiomaths@protonmail.com">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+<a href="https://jhonatan-mustiola.netlify.app">
+  <img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logoColor=white)" />
+</a>
+</h2>
 
 ## Technologies
 
