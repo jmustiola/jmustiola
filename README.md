@@ -1,6 +1,6 @@
 <h1 align="center">Jhonatan Mustiola</h1>
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=CACACA&background=2A2A2A&center=true&vCenter=true&multiline=true&random=false&width=512&height=79&lines=Software+Developer+;backend+and+low-level+programming" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=CACACA&background=2A2A2A&center=true&vCenter=true&multiline=true&random=false&width=512&height=79&lines=Software+Developer+;backend+and+low-level+enthusiast" alt="Typing SVG" /></a>
 </h2>
 
 <h2 align="center">
