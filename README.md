@@ -10,9 +10,9 @@
 <a href="mailto:jhonmustiomaths@protonmail.com">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-<a href="https://jhonatan-mustiola.netlify.app">
+<!--<a href="https://jhonatan-mustiola.netlify.app">
   <img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logoColor=white)" />
-</a>
+</a>-->
 </h2>
 
 <h2 align="center">Technologies I frequently use</h2>
