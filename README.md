@@ -65,11 +65,11 @@ My passion for technology drives me to be constantly learning and updating. I am
   <img src="https://github-contributor-stats.vercel.app/api?username=hiahir357&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="repo" />
 </h3>
 
-<details>
+<!--<details>
   <summary>Click to see a random joke</summary>
   <div align="center">
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
   </div>
-</details>
+</details>-->
