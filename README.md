@@ -53,9 +53,9 @@ My passion for technology drives me to be constantly learning and updating. I am
 <h2 align="center">📊 GitHub stats</h2>
 
 <h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiahir357&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" alt="github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiahir357&theme=blue-green&hide_border=false" alt="github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiahir357&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiahir357&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false" alt="github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiahir357&theme=blue-green&hide_border=true" alt="github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiahir357&theme=blue-green&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook&layout=compact" alt="github" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiahir357&theme=github-compact" alt="github" />
 </h3>
 
