@@ -1,8 +1,8 @@
 <h1 align="center">Jhonatan Mustiola</h1>
-<img src="https://komarev.com/ghpvc/?username=hiahir357&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=500&color=CACACA&background=2A2A2A&center=true&vCenter=true&multiline=true&random=false&width=512&height=79&lines=Software+Developer+;backend+and+low-level+enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&pause=500&color=78A4B0&background=05171B&center=true&vCenter=true&multiline=true&random=false&width=512&height=79&lines=Software+Developer+;backend+and+low-level+enthusiast" alt="Typing SVG" /></a>
 </h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=hiahir357&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:30px;">
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
@@ -32,11 +32,11 @@ My passion for technology drives me to be constantly learning and updating. I am
 </a>-->
 </h2>
 
-<h2 align="center">⚒️ Technologies I frequently use</h2>
+<h2 align="center">⚒️ Technologies I've used</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,express,js,mysql,nextjs,nodejs,py,react,tailwind,ts,cs,net,sass,php,linux,go,flask,fastapi,cpp,c,bash,astro,html,css,git&perline=13" />
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,express,js,vite,bun,jest,latex,neovim,powershell,sqlite,mysql,supabase,vscode,nextjs,nodejs,py,react,tailwind,ts,cs,net,sass,php,linux,go,flask,fastapi,cpp,c,bash,astro,html,css,git,rust&perline=12" />
   </a>
 </p>
 
