@@ -2,7 +2,7 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&pause=500&color=78A4B0&background=05171B&center=true&vCenter=true&multiline=true&random=false&width=512&height=79&lines=Software+Developer+;backend+and+low-level+enthusiast" alt="Typing SVG" /></a>
 </h3>
-<img align="right" src="https://komarev.com/ghpvc/?username=hiahir357&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:30px;">
+<img align="right" src="https://komarev.com/ghpvc/?username=hiahir357&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;">
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
