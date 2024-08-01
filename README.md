@@ -81,7 +81,7 @@ Jhonatan Mustiola
 
 mustiolajhonatan@gmail.com
 
-[https://www.github.com/hiahir357](https://www.github.com/hiahir357)
+[https://www.github.com/jmustiola](https://www.github.com/jmustiola)
 
 [https://www.linkedin.com/in/jhonatan-mustiola](https://www.linkedin.com/in/jhonatan-mustiola)
 
@@ -98,7 +98,7 @@ I strongly believe in and contribute to Open Source.
 Technical Skills
 ----------------
 
-Languages: Go, Python, JavaScript/TypeScript, PHP, C#, C, C++, SQL
+Languages: Go, Python, JavaScript/TypeScript, PHP, C#, C, SQL
 
 Frameworks: Flask, FastAPI, Express, Next.js, ASP\.NET Core
 
