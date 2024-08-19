@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&pause=500&color=78A4B0&background=05171B&center=true&vCenter=true&multiline=true&random=false&width=312&height=72&lines=👨‍💻+Software+Developer+;⚙️+Backend+Programmer" alt="Typing SVG" /></a>
+  Software Developer & Backend Programmer
 </h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=jmustiola&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;">
 
