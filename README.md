@@ -4,9 +4,9 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&pause=500&color=78A4B0&background=05171B&center=true&vCenter=true&multiline=true&random=false&width=312&height=72&lines=👨‍💻+Software+Developer+;⚙️+Backend+Programmer" alt="Typing SVG" /></a>
 </h3>
-<img align="right" src="https://komarev.com/ghpvc/?username=hiahir357&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;">
+<img align="right" src="https://komarev.com/ghpvc/?username=jmustiola&color=05171B&style=for-the-badge" alt="Profile Views" style="height:30px;">
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
+## About Me
 
 I am a software developer with a passion for programming, system design, and creating innovative technological solutions.
 
@@ -30,7 +30,7 @@ My passion for technology drives me to be constantly learning and updating. I am
 </a>
 </h2>
 
-<h2 align="center">⚒️ Technologies I've used</h2>
+## ⚒️ Technologies I've used
 
 <img src="https://img.shields.io/badge/Languages-%2305171B.svg?style=for-the-badge&logoColor=white)" />
 
@@ -56,22 +56,22 @@ My passion for technology drives me to be constantly learning and updating. I am
   </a>
 </p> <br />
 
-<h2 align="center">🚀 My progress at roadmap.sh</h2>
+## My progress at roadmap.sh
 
 <h3 align="center">
   <img src="https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=javascript%2Cpython%2Cgolang%2Csql" alt="roadmap.sh" />
   <img src="https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=aspnet-core%2Cdatastructures-and-algorithms%2Cbackend%2Crust" alt="roadmap.sh" />
 </h3>
 
-<h2 align="center">📊 GitHub stats</h2>
+## 📊 GitHub stats
 
 <h3 align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiahir357&theme=blue_green"> <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiahir357&theme=blue-green&hide_border=true" alt="github" /> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiahir357&theme=blue-green&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook,javascript,astro&layout=compact" alt="github" /> <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiahir357&theme=github-compact" alt="github" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=hiahir357&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiahir357&theme=blue_green">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmustiola&theme=blue_green"> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmustiola&theme=blue-green&hide_border=true" alt="github" /> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmustiola&theme=blue-green&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook,javascript,astro&layout=compact" alt="github" /> <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmustiola&theme=github-compact" alt="github" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=jmustiola&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmustiola&theme=blue_green">
 </h3>
 
 <!-- V2: simple -->
