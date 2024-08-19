@@ -1,6 +1,5 @@
 <!-- V1: full -->
-
-<!-- <h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
+<h1 align="center">Hi 👋, I'm Jhonatan Mustiola</h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&pause=500&color=78A4B0&background=05171B&center=true&vCenter=true&multiline=true&random=false&width=312&height=72&lines=👨‍💻+Software+Developer+;⚙️+Backend+Programmer" alt="Typing SVG" /></a>
@@ -9,9 +8,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
 
-I am a software developer with a passion for programming, system design, and creating innovative technological solutions. I am currently pursuing a degree in Systems Engineering, which has provided me with a solid theoretical and practical foundation in the field of computer science.
+I am a software developer with a passion for programming, system design, and creating innovative technological solutions.
 
-I have a strong focus on backend development and particularly enjoy low-level programming. I am fascinated by the complexity of operating systems, computer architecture, and performance optimization.
+I have a strong focus on backend development and I am fascinated by the complexity of operating systems, computer architecture and performance optimization.
 
 My passion for technology drives me to be constantly learning and updating. I am excited to explore new tools, methodologies, and trends that allow me to develop increasingly efficient and scalable solutions.
 
@@ -73,10 +72,10 @@ My passion for technology drives me to be constantly learning and updating. I am
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiahir357&theme=github-compact" alt="github" />
   <img src="https://github-contributor-stats.vercel.app/api?username=hiahir357&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiahir357&theme=blue_green">
-</h3> -->
+</h3>
 
 <!-- V2: simple -->
-Jhonatan Mustiola
+<!-- Jhonatan Mustiola
 =================
 
 mustiolajhonatan@gmail.com
@@ -104,11 +103,9 @@ Frameworks: Flask, FastAPI, Express, Next.js, ASP\.NET Core
 
 Databases: PostgreSQL, MySQL, SQL Server, SQLite, MongoDB
 
-<!-- Experience -->
-
 Education
 ---------
 
 Universidad Nacional Abierta, 2022-2026
 
-Engineer's degree in Systems Engineering
+Engineer's degree in Systems Engineering -->
