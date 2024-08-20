@@ -69,7 +69,6 @@ My passion for technology drives me to be constantly learning and updating. I am
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmustiola&theme=blue_green"> <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmustiola&theme=blue-green&hide_border=true" alt="github" /> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmustiola&theme=blue-green&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook,javascript,astro&layout=compact" alt="github" /> <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmustiola&theme=github-compact" alt="github" />
   <img src="https://github-contributor-stats.vercel.app/api?username=jmustiola&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="repo" />
 </h3>
 
