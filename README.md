@@ -48,11 +48,11 @@ My passion for technology drives me to be constantly learning and updating. I am
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Frameworks-%2305171B.svg?style=for-the-badge&logoColor=white)" />
+<img src="https://img.shields.io/badge/Frameworks/Libraries-%2305171B.svg?style=for-the-badge&logoColor=white)" />
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nextjs,tailwind,net,flask,fastapi,astro&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,express,net,flask,fastapi&perline=12" />
   </a>
 </p> <br />
 
