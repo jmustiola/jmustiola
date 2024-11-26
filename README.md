@@ -21,42 +21,28 @@ I am a focused software developer with a passion for backend programming and sys
 
 ## ⚒️ Technologies I've used
 
-<img src="https://img.shields.io/badge/Languages-%2305171B.svg?style=for-the-badge&logoColor=white)" />
+<!-- <img src="https://img.shields.io/badge/Languages-%2305171B.svg?style=for-the-badge&logoColor=white)" /> -->
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,powershell,py,cs,php,go,cpp,c,bash,rust&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nest,react,astro,py,flask,cs,net,php,go,c,linux,git" />
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Development-%2305171B.svg?style=for-the-badge&logoColor=white)" />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,linux,neovim,vscode,ts,git&perline=12" />
-  </a>
-</p>
-
-<img src="https://img.shields.io/badge/Frameworks/Libraries-%2305171B.svg?style=for-the-badge&logoColor=white)" />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,express,net,flask,fastapi&perline=12" />
-  </a>
-</p> <br />
+<br />
 
 ## My progress at roadmap.sh
 
 <h3 align="center">
-  <img src="https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=javascript%2Cpython%2Cgolang%2Csql" alt="roadmap.sh" />
-  <img src="https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=aspnet-core%2Cdatastructures-and-algorithms%2Cbackend%2Crust" alt="roadmap.sh" />
+  <img src="https://api.roadmap.sh/v1-badge/wide/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=javascript%2Cpython%2Cgolang%2Csql" alt="roadmap.sh" />
+  <!-- <img src="https://api.roadmap.sh/v1-badge/wide/64af6cdf5f038d81eead5cf0?variant=dark&roadmaps=aspnet-core%2Cdatastructures-and-algorithms%2Cbackend%2Crust" alt="roadmap.sh" /> -->
 </h3>
 
 ## 📊 GitHub stats
 
 <h3 align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmustiola&theme=blue_green"> <br />
-  <img src="https://github-contributor-stats.vercel.app/api?username=jmustiola&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="repo" /> <br />
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmustiola&theme=blue_green"> <br /> -->
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=jmustiola&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="repo" /> <br /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmustiola&theme=blue-green&hide_border=true" alt="github" /> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmustiola&theme=blue-green&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook,javascript,astro&layout=compact" alt="github" />
 </h3>
