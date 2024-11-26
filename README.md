@@ -8,18 +8,7 @@
 
 ## About Me
 
-I am a software developer with a passion for programming, system design, and creating innovative technological solutions.
-
-I have a strong focus on backend development and I am fascinated by the complexity of operating systems, computer architecture and performance optimization.
-
-My passion for technology drives me to be constantly learning and updating. I am excited to explore new tools, methodologies, and trends that allow me to develop increasingly efficient and scalable solutions.
-
-**On my GitHub profile, you will find:**
-
-* Repositories with my personal and professional projects.
-* Contributions to open source projects.
-
-**Feel free to contact me if you have any questions or would like to collaborate on a project!**
+I am a focused software developer with a passion for backend programming and system design and architecture. I love building things from scratch and exploring new technologies. I am a self-taught person who is passionate about continuous learning and solving complex problems. Lover of open source, I actively contribute to the community
 
 <h2 align="center">
   <a href="https://www.linkedin.com/in/jhonatan-mustiola">
